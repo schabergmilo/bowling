@@ -1,13 +1,3 @@
 # bowling
 
-Reads rolls from scores.txt, calculates scores, and outputs frames in format:
-
-  1   2   3   4   5   6   7   8   9    10
-  
-+---+---+---+---+---+---+---+---+---+-----+
-
-|8 1|8 1|8 1|8 1|8 1|8 1|8 1|8 1|8 1|8 1  |
-
-|  9| 18| 27| 36| 45| 54| 63| 72| 81|   90|
-
-+---+---+---+---+---+---+---+---+---+-----+
+Reads rolls from scores.txt, calculates scores, and outputs formatted frames
